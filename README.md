@@ -5,8 +5,6 @@ Sou Bacharel em Ciência e Tecnologia, Engenheiro Civil, curioso e entusiasta de
 
 Me encontre no [Linkedin](https://www.linkedin.com/in/carvalhodanielg/) e [Telegram](https://t.me/Daniel_dcg)
 
-👋
-
 
 
 >_“The devil is in the details”_
