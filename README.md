@@ -9,7 +9,7 @@ Me encontre no [Linkedin](https://www.linkedin.com/in/carvalhodanielg/) e [Teleg
 
 
 
->_“The devil is in the details”_
+>_“Do what you can't”_
 
 
 
