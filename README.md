@@ -2,7 +2,7 @@
 ---
 
 
-#### Dev front-end React (HTML, CSS, JavaScript)
+#### Dev front-end React (HTML, CSS, JavaScript, TypeScript)
 Sou Bacharel em Ciência e Tecnologia, Engenheiro Civil, curioso e entusiasta de tecnologia desde sempre.  
 
 Me encontre no [Linkedin](https://www.linkedin.com/in/carvalhodanielg/) e [Telegram](https://t.me/Daniel_dcg) 
