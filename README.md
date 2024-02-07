@@ -1,6 +1,8 @@
 ### **_Opa! Eu sou o Daniel Carvalho!_**
 ---
 
+Repositório de notas: https://carvalhodaniel.me/
+
 
 #### Desenvolvedor de software (Typescript, Javascript, Go)
 Sou Pós graduando em Engenharia de software, Bacharel em Ciência e Tecnologia, Engenheiro Civil, curioso e entusiasta de tecnologia desde sempre.  
