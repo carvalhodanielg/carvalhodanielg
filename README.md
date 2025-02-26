@@ -4,7 +4,7 @@
 Repositório de notas: https://carvalhodaniel.me/
 
 
-#### Desenvolvedor de software (Typescript, Javascript, Go)
+#### Desenvolvedor de software (Typescript, Javascript, Go, Java)
 Sou Pós graduado em Engenharia de software pela PUC Minas, Bacharelando em Ciência da Computação pela Universidade Católica de Brasília, Bacharel em Ciência e Tecnologia e Engenheiro Civil pela UFVJM, curioso e entusiasta de tecnologia desde sempre.  
 
 Me interesso por assuntos como estrutura de dados e algoritmos, compiladores e interpretadores, performance web, dentre outros. 
